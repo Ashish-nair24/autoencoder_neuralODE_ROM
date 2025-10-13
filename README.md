@@ -1,6 +1,3 @@
-# autoencoder_neuralODE_ROM
-Implementation of an auto-encoder, neural ODE reduced-order model applied to dynamical systems. 
-
 # Latent Time-Scale Analysis in Neural ODE Surrogate Models
 
 This repository contains research code and data supporting the following two papers:
